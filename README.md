@@ -1,2 +1,2 @@
 # how-to-create-a-memecoin
-Full guide on how to create a Memecoin in just a few minutes. Works for bsc, base, avax, eth, arb ...
+Full guide: [https://medium.com/@Insan3Dev/how-to-create-a-memecoin-beginner-guide-7552fe5746b2]
